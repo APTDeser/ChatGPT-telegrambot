@@ -1,4 +1,4 @@
-# Telegram bot fot ChatGPT
+# Telegram bot for ChatGPT
 
 The simplest bot for Telegram based on 
 [EasyChatGPT](https://github.com/LanLan69/easyChatGPT)
