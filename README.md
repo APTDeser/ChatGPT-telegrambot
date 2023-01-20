@@ -1,7 +1,7 @@
 # Telegram bot fot ChatGPT
 
 The simplest bot for Telegram based on 
-[EasyChatGPT](https://github.com/LanLan69/easyChatGPT)\
+[EasyChatGPT](https://github.com/LanLan69/easyChatGPT)
 ## Features
 
 - [x] Bypass Cloudflare's anti-bot protection using `undetected_chromedriver`
@@ -47,4 +47,4 @@ python ChatGPTBOT.py
 
 
 ## Acknowledgement
-[EasyChatGPT](https://github.com/LanLan69/easyChatGPT)\
+[EasyChatGPT](https://github.com/LanLan69/easyChatGPT)
