@@ -1,5 +1,4 @@
 # Telegram bot fot ChatGPT
-[made-with-python](https://img.shields.io/badge/Made%20with-Python-1f425f.svg)](https://www.python.org/)
 
 The simplest bot for Telegram based on 
 [EasyChatGPT](https://github.com/LanLan69/easyChatGPT)\
